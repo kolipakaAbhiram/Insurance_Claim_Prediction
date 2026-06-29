@@ -1,7 +1,6 @@
 # Insurance Claim Risk Prediction 🚗💰
-
-## 📋 Project Overview
-This project focuses on building a predictive machine learning pipeline to determine the likelihood of an insurance policyholder filing a claim. Deep insight into user risk profiles allows insurance providers to optimize policy pricing, manage financial risk, and target the right audiences with tailored marketing strategies.
+## 🔹 Executive Summary
+This repository contains a production-ready data science framework designed to predict the likelihood of an insurance policyholder filing a claim. Built using Python and Scikit-Learn, the core engine processes over 595,000 corporate records containing high-dimensional, anonymized features. The project strictly focuses on resolving real-world data challenges, specifically hidden missing data architectures and extreme target class imbalances
 
 * **Domain:** Finance / Insurance
 * **Dataset:** 595,212 observations with 59 anonymized features. Missing values are natively encoded as `-1`.
