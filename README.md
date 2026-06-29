@@ -41,3 +41,6 @@ While the **Random Forest** model delivers a higher baseline accuracy (93%) and 
 1. **Risk-Adjusted Premium Bundling:** Use the model's predicted risk probabilities rather than binary outputs. Customers flagged with an extremely low probability of making a claim can be targeted by marketing for discounted premium rates or safe-driver reward renewals.
 2. **De-incentivize High-Risk Profiles:** For users showing a higher propensity for claims, suggest policy variants featuring higher deductibles. This retains them as buying customers while safeguarding the business from massive claim liabilities.
 3. **Feature Enrichment Campaigns:** Since the raw data shows weak linear correlations, the marketing and onboarding teams should aim to collect explicit behavioral indicators (e.g., annual mileage, vehicle usage type) to significantly boost predictive accuracy.
+
+##  Data set Download link 
+https://drive.google.com/file/d/12ivQiTKYXQH2LYH9kWoufEhawTEP3qNt/view?usp=sharing
