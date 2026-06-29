@@ -1,4 +1,4 @@
-# SafeDriver: Insurance Claim Risk Prediction 🚗💰
+# Insurance Claim Risk Prediction 🚗💰
 
 ## 📋 Project Overview
 This project focuses on building a predictive machine learning pipeline to determine the likelihood of an insurance policyholder filing a claim. Deep insight into user risk profiles allows insurance providers to optimize policy pricing, manage financial risk, and target the right audiences with tailored marketing strategies.
