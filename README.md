@@ -44,3 +44,4 @@ While the **Random Forest** model delivers a higher baseline accuracy (93%) and 
 
 ##  Data set Download link 
 https://drive.google.com/file/d/12ivQiTKYXQH2LYH9kWoufEhawTEP3qNt/view?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kolipakaAbhiram/Insurance_Claim_Prediction/blob/main/InsClaimPred.ipynb)
